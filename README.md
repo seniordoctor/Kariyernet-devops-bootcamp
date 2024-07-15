@@ -177,7 +177,7 @@ forth.yml
 
 ![ansible-playbook](https://github.com/user-attachments/assets/2030cb7a-2149-49f7-8943-d2830ed084e1)
 
-3- Hata almadığımız için kontrol etmek için Master ve Worker sunucumuzda hostnamectl ile kontrolümüzü gerçekleştiriyoruz. Eklenmiş yeni user'ı da görüntüleyebiliriz.
+3- Hata almadığımız dolayı kontrol etmek için Master ve Worker sunucumuzda hostnamectl ile kontrolümüzü gerçekleştiriyoruz. Eklenmiş yeni user'ı da görüntüleyebiliriz.
 
 ![master-hostname](https://github.com/user-attachments/assets/d5140ec1-be0e-4069-a933-8b0261304807)
 
